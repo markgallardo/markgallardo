@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Js, react
 - 👯 I’m looking to collaborate on with other web developers
 - ⚡ Fun fact: I love to play basketball🏀, video games 🎮, snowboard 🏂
-
+---
 
   ### Github Stats
   <img src="https://github-readme-stats.vercel.app/api?username=markgallardo&hide=contribs&theme=tokyonight"/>
