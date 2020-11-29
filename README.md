@@ -1,8 +1,8 @@
 ### Hi there, I'm Mark 👋
 
-- 🔭 I’m currently working on my profolio
+- 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Js, react
-- 👯 I’m looking to collaborate on with other web developers
+- 👯 I’m looking to collaborate with other web developers
 - ⚡ Fun fact: I love to play basketball🏀, video games 🎮, snowboard 🏂
 ---
 
